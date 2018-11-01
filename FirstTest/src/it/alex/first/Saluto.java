@@ -16,7 +16,7 @@ public class Saluto {
 	}
 	
 	public Saluto(String name) {
-		System.out.println(greeting + " " + name + "!!!");
+		System.out.println(greeting + " " + name);
 	}
 	
 
